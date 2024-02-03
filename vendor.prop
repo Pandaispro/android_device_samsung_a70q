@@ -1,2 +1,5 @@
 # Bluetooth
 bluetooth.device.default_name=Galaxy A70
+
+# Fingerprint
+ro.vendor.fingerprint.sensor_location=540|2120|95
